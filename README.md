@@ -23,20 +23,6 @@ This project builds a **Question Answering (QA)** system that can **ingest PDF d
 
 ---
 
-## 🗂 Directory Structure
-
-project/
-│
-├── dataset/ # Folder containing PDF files ## you can add more pdf files here 
-├── vectorstore/ # Saved FAISS vector DB
-├── Phase1.py # This code you can run in terminal without the streamlit app
-├── Phase2.py # This code you can run as app in localhost with interface
-├── .env # Your HuggingFace API token
-└── README.md # This file
-
-
----
-
 ## 🚀 Setup Instructions
 
 ### 1. Clone the repository
